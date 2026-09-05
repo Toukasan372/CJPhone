@@ -1,0 +1,14 @@
+{
+  "carpeta_juego": "D:\\Games\\GTA San Andreas\\CLEO\\twitch",
+  "canal_twitch": "Touka_San_",
+  "palabra_clave": "cj",
+  "voz": "es-CU-ManuelNeural",
+  "velocidad": "+0%",
+  "tono": "+0Hz",
+  "usar_efecto_telefono": true,
+  "filtro_telefono": "highpass=f=250,lowpass=f=3800,volume=1.8",
+  "max_caracteres": 200,
+  "cooldown_segundos": 19,
+  "espera_maxima_segundos": 40,
+  "blacklist": []
+}

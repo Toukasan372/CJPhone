@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+build/
+dist/
+
+# ffmpeg.exe es un binario de terceros de ~99 MB: no se versiona.
+# El instalador (.exe publicado en Releases) ya lo lleva empaquetado dentro.
+# Para correr el proyecto desde el codigo fuente, descargalo tu mismo
+# (ver README, seccion "Ejecutar desde el codigo fuente") y ponlo aqui:
+payload/tools/ffmpeg.exe
+
+.vscode/
+*.log
