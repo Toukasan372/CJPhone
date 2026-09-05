@@ -1,5 +1,7 @@
 <div align="center">
 
+**🇪🇸 Español** | [🇬🇧 English](README.en.md)
+
 # 📱 CJ Phone — Twitch al móvil de CJ
 
 ### Lee el chat de Twitch en voz alta, dentro de GTA San Andreas, como si te llamaran al teléfono.
